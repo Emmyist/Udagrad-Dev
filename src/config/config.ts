@@ -10,7 +10,7 @@ export const config = {
     "aws_media_bucket": "emmyist-udagram-dev"
   },
   "jwt": {
-    "secret": " "
+    "secret": " hellobabs"
   },
   "prod": {
     "username": "",
